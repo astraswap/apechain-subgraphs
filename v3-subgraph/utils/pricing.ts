@@ -11,7 +11,7 @@ const WETH_ADDRESS = "0x48b62137edfa95a428d35c09e44256a739f6b557";
 
 const USDC_WETH_03_POOL = "0x8c1337410ccc313fa7ecc4f70e7402fe44c59f94";
 
-const STABLE_IS_TOKEN0 = "true" as string;
+const STABLE_IS_TOKEN0 = "false" as string;
 
 // token where amounts should contribute to tracked volume and liquidity
 // usually tokens that many tokens are paired with s
